@@ -1,5 +1,7 @@
 This app was creating by tutorial https://scrimba.com/learn/firebase
 
+The tehcnologys I was using: 
+
 - Web Application Manifest
 - FireBase
 
